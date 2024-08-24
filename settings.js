@@ -16,9 +16,9 @@ global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '6283173814158'  //creator number
-global.ownername = '🦄Dream Guy Xeon' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '243822809152'  //creator number
+global.ownername = '匚卄卂ᗪ尺ㄖ' //owner name
+global.botname = '匚卄卂ᗪ尺ㄖ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
